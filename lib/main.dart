@@ -1198,7 +1198,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       MainAxisAlignment.spaceBetween,
                                   children: [
                                     Text(
-                                      "Laughter",
+                                      "Laughter Therapy",
                                       style: TextStyle(
                                           fontSize: 18,
                                           fontWeight: FontWeight.w600,
